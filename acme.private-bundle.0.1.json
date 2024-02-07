@@ -2,11 +2,6 @@
   "manifests": {
     "acme/private-bundle": {
       "manifest": {
-        "bundles": {
-          "Acme\\PrivateBundle\\AcmePrivateBundle": [
-            "all"
-          ]
-        },
         "copy-from-recipe": {
           "config/": "%CONFIG_DIR%"
         }
