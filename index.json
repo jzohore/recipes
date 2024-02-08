@@ -8,7 +8,7 @@
   "is_contrib": true,
   "_links": {
     "repository": "github.com/jzohore/recipes",
-    "origin_template": "{package}:{version}@github.com/jzohore/recipes:master",
+    "origin_template": "{package}:{version}@github.com/jzohore/recipe:master",
     "recipe_template": "https://raw.githubusercontent.com/jzohore/recipes/flex/main/{package_dotted}.{version}.json"
   }
 }
