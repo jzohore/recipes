@@ -9,6 +9,6 @@
   "_links": {
     "repository": "github.com/jzohore/recipes",
     "origin_template": "{package}:{version}@github.com/jzohore/recipes:master",
-    "recipe_template": "https://api.github.com/repos/jzohore/recipes/contents/{package_dotted}.{version}.json"
+    "recipe_template": "https://raw.githubusercontent.com/jzohore/recipes/flex/main/{package_dotted}.{version}.json"
   }
 }
